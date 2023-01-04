@@ -1,0 +1,5 @@
+export const Add="Add"
+export const SEARCH="SEARCH"
+export const EDIT="EDIT"
+export const DeleteTask="deleteTask"
+export const CHECKED="CHECKED"
